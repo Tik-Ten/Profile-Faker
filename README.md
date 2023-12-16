@@ -9,3 +9,5 @@
 </ul>
 </b>
 <hr>
+<h1>Target:</h1>
+<p>Hello. I'm TikTen(Not TikTok /:). I created this app with <b>Python</b> and top <b>libraries</b> to create a <b>fake profile</b>. </p>
